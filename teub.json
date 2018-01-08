@@ -1,0 +1,10 @@
+// step 1 : recup la liste :
+var maListe = Liste;
+
+function show("maListe"){
+ div.innerHTML="<span>"+ item.Nom.toUpperCase() +" </br> "+ upperFirst(item.Prenom)+ "</span>" +" </br> "+ (item.Mail)+ "</span>";
+}
+
+
+//l'affichage de la description
+// div.innerHTML="<span>"+ item.Nom.toUpperCase() +" </br> "+ upperFirst(item.Prenom)+ "</span>" +" </br> "+ (item.Mail)+ "</span>";
